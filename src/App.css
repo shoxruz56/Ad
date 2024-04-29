@@ -1,0 +1,14 @@
+.app{
+   height: 100vh;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+.cont{
+   border: 1px solid;
+   padding: 10px 20px;
+   border-radius: 20px;
+   display: grid;
+   grid-template-rows: 1fr 4fr 1fr;
+   grid-gap: 10px;
+}
